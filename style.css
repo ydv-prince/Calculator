@@ -34,7 +34,7 @@ button {
     padding: 10px;
     border: none;
     border-radius: 5px;
-    width: calc(25% - 50px);
+    width: calc(50% - 50px);
 }
 .js-calculation {
     font-size: 20px;
